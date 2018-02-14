@@ -1,4 +1,4 @@
-# java-Trees
+# java-Tree-Structure-Preview-Utility
 
 TreeTest
 Build Version 1.0 Beta
@@ -7,7 +7,7 @@ Visual representation of Trees in Java Data Structures.
 
 Copyright (C) 2014, Jentzen Paolo Ancheta Javier
 
-FileChamber comes with ABSOLUTELY NO WARRANTY.
+TreeTest comes with ABSOLUTELY NO WARRANTY.
 This is a freeware and inspired for educational purposes.
 The software includes the solution and source codes. It is fair to give warning upon code manipulation. MODIFY AT YOUR OWN RISK.
 Source codes and resources are by-product of intensive research and any familiar methodologies are owned by their respective authors/owners.
